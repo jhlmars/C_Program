@@ -9,6 +9,7 @@ int main()
 		printf("C program\n");
 		printf("Make Conflict\n");
 		printf("Compile Process\n");
+		printf("Makefile 추가\n");
 	}
 	return 0;
 }
